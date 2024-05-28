@@ -1,7 +1,5 @@
 # Chain-of-Discussion
 
-----
-
 ### 1. Data Format
 
    We have released the dataset employed in our work, which contains 200 open-ended QA examples in the domain of Chinese Civil Code.
